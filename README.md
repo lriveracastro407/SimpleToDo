@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/a267fcaa88654ab48b8e03b826982235' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im5.ezgif.com/tmp/ezgif-5-bec613357c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
